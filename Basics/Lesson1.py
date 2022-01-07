@@ -80,4 +80,4 @@ teachers = [
 ]
 print(teachers[0].values())
 print(teachers[0].keys())
-print(teachers['name'] == "sunny")
+print(teachers[0])

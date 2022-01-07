@@ -81,3 +81,5 @@ teachers = [
 print(teachers[0].values())
 print(teachers[0].keys())
 print(teachers[0])
+
+print("Auto Trigger test...!!")
